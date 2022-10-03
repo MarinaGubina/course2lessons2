@@ -33,6 +33,6 @@ public class Main {
 
         Car car5 = new Car("Hyundai","Avante",1.6,"оранжевый",
                 2016,"Южная Корея");
-        System.out.println(car4);
+        System.out.println(car5);
     }
 }
